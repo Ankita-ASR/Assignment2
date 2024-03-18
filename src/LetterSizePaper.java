@@ -13,13 +13,13 @@ public class LetterSizePaper {
         double distance = Math.abs(difference);
         double max = Math.max(first, second);
         double min = Math.min(first, second);
-        System.out.println("Summation: " + sum);
-        System.out.println("Difference: "+ difference);
-        System.out.println("Product: "+ product);
-        System.out.println("Average: "+ average);
-        System.out.println("Distance: " + distance);
-        System.out.println("Maximum: "+ max);
-        System.out.println("Minimum: "+ min);
+        System.out.println("Summation:    " + sum);
+        System.out.println("Difference:   " + difference);
+        System.out.println("Product:      " + product);
+        System.out.println("Average:      " + average);
+        System.out.println("Distance:     " + distance);
+        System.out.println("Maximum:      " + max);
+        System.out.println("Minimum:      " + min);
     }
 }
 
